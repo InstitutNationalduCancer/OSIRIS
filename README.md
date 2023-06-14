@@ -1,7 +1,8 @@
 # OSIRIS
 
 <p align="center"> 
-<img src="https://github.com/InstitutNationalduCancer/OSIRIS/blob/main/Images/OSIRIS_Brand.png" /> 
+<img src="https://github.com/InstitutNationalduCancer/OSIRIS/blob/main/Images/OSIRIS_Brand.png" />
+<img src="https://github.com/InstitutNationalduCancer/OSIRIS/blob/main/Images/CC_Logo.png" />
 </p>
 
 
